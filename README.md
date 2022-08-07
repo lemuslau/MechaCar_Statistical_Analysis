@@ -15,3 +15,5 @@ Lot summary
 ![Deliverable 2 - Lot Summary](https://user-images.githubusercontent.com/102635884/183274756-9ab01b69-e748-492f-922a-6eacdc782ff0.PNG)
 
 Under the total summary, the PSI is under 100 and meets the design speicifications. Looking at each lot indicudually, not all lots fit the speicifcations. Lot 1 and Lot 2 meet it, but lot 3 is signicatanly over the 100 PSI at 170.28 
+
+## T-Tests on Suspension Coils
